@@ -4,11 +4,11 @@
 	<author>Codigo Aberto</author>
 	<authorEmail>marcio.marques@codigoaberto.pt</authorEmail>
 	<authorUrl>http://www.codigoaberto.pt</authorUrl>
-	<copyright>Copyright (C) 2014 SEBLOD. All Rights Reserved.</copyright>
+	<copyright>Copyright (C) 2015 Codigo Aberto. All Rights Reserved.</copyright>
 	<license>GNU General Public License version 2 or later.</license>
-	<creationDate>May 2014</creationDate>
+	<creationDate>Mar 2015</creationDate>
 	<description>Quick2Cart field for Seblod 3.x // by Codigo Aberto - Joomla Enterprise Support  - www.codigoaberto.pt</description>
-	<version>1.0.0</version>
+	<version>2.0.0</version>
 	
 	<scriptfile>install/script.php</scriptfile>
 	
